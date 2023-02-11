@@ -43,11 +43,11 @@ x.    Back End developer.
     NB:- Type checking is the process of checking and verifying the type of a construct (constant, variable, array, list, object) and its usage context. It helps in minimizing the possibility of type errors in the program.
     Type checking may occur either at compile-time (static checking) or at run-time(dynamic checking).
 
-   7. Differentiate between the JavaScript data types ‘null’ and ‘undefined
+7. Differentiate between the JavaScript data types ‘null’ and ‘undefined
 
-        Null in JavaScript means an empty value and is also a primitive type in JavaScript. The variable which has been assigned as null contains no value. This mens that null is a variable that is defined but is missing a value
+    Null in JavaScript means an empty value and is also a primitive type in JavaScript. The variable which has been assigned as null contains no value. This mens that null is a variable that is defined but is missing a value
 
-        While 
+    While 
 
-        Undefined, on the other hand, means the variable has been declared, but its value has not been assigned. Undefined is a variable that refers to something that doesn't exist, and the variable isn't defined to be anything. 
+    Undefined, on the other hand, means the variable has been declared, but its value has not been assigned. Undefined is a variable that refers to something that doesn't exist, and the variable isn't defined to be anything. 
 
